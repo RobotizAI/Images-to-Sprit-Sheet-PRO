@@ -8,7 +8,9 @@
   </a>
 </p>
 
-[![Screenshot Images to Sprit Sheet PRO - RobotizAI](Images%20to%20Sprit%20Sheet%20PRO%20-%20RobotizAI.png)](https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/)
+<a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
+  <img src="Images%20to%20Sprit%20Sheet%20PRO%20-%20RobotizAI.png" alt="Screenshot Images to Sprit Sheet PRO - RobotizAI">
+</a>
 
 <p align="center">
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
@@ -116,4 +118,11 @@ Todos os direitos reservados.
 
 <p align="center">
   🧩 <strong>Images to Sprit Sheet PRO</strong>
+</p>
+
+<p align="center">
+  Conheça nosso site oficial:
+  <a href="https://robotizai.com/" target="_blank">
+    <strong>RobotizAI.com</strong>
+  </a>
 </p>
