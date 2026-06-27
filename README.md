@@ -192,7 +192,7 @@ README.md    → apresentação, instruções e documentação
 
 ---
 
-## 🔐 Direitos autorais
+#### 🔐 Direitos autorais
 
 Copyright © perpetuo **RobotizAI**.
 Todos os direitos reservados.
