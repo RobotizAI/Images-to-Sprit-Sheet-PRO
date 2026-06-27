@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Abrir_Ferramenta_Online-Images_to_Sprit_Sheet_PRO-7B2CBF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Abrir ferramenta online">
+    <img src="https://img.shields.io/badge/🚀_Abrir_Ferramenta_Online-Images_to_Sprit_Sheet_PRO-2F6FA3?style=for-the-badge&labelColor=1B1B2B&color=2F6FA3&logo=githubpages&logoColor=white" alt="Abrir ferramenta online">
   </a>
 </p>
 
@@ -27,16 +27,16 @@
 
 <p align="center">
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-Page-orange?style=for-the-badge&logo=html5" />
+    <img src="https://img.shields.io/badge/HTML5-Page-2F6FA3?style=for-the-badge&labelColor=1B1B2B&color=2F6FA3&logo=html5&logoColor=white" />
   </a>
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-Visual-blue?style=for-the-badge&logo=css3" />
+    <img src="https://img.shields.io/badge/CSS3-Visual-2F6FA3?style=for-the-badge&labelColor=1B1B2B&color=2F6FA3&logo=css3&logoColor=white" />
   </a>
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-Canvas-yellow?style=for-the-badge&logo=javascript" />
+    <img src="https://img.shields.io/badge/JavaScript-Canvas-2F6FA3?style=for-the-badge&labelColor=1B1B2B&color=2F6FA3&logo=javascript&logoColor=white" />
   </a>
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
-    <img src="https://img.shields.io/badge/RobotizAI-PRO-purple?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/RobotizAI-PRO-2F6FA3?style=for-the-badge&labelColor=1B1B2B&color=2F6FA3&logoColor=white" />
   </a>
 </p>
 
