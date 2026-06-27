@@ -1,5 +1,5 @@
 <h1 align="center">
-  🧩 Images to Sprit Sheet PRO v72 - RobotizAI
+  🧩 Images to Sprit Sheet PRO v73 - RobotizAI
 </h1>
 <br>
 <p align="center">
@@ -159,36 +159,6 @@ A ferramenta permite configurar:
 5. 👀 Confira o resultado no canvas.
 6. 📥 Clique em **Download PNG** para baixar a spritesheet.
 7. 🧾 Clique em **Download JSON** para baixar o mapeamento dos frames.
-
----
-
-## 📂 Arquivos principais
-
-```text
-index.html   Página completa da ferramenta
-README.md    Explicação visual do projeto
-```
-
----
-
-## 🧠 Observação sobre o README.md
-
-Não cole todo o código HTML dentro do `README.md` esperando que o GitHub mostre a ferramenta funcionando.
-
-O GitHub remove ou bloqueia partes de:
-
-* `<script>`
-* CSS avançado
-* JavaScript
-* eventos interativos
-* código que possa afetar a segurança da página
-
-✅ A forma correta é:
-
-```text
-index.html   → código completo da ferramenta
-README.md    → apresentação, instruções e documentação
-```
 
 ---
 
