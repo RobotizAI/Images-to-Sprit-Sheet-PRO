@@ -3,7 +3,7 @@
 </h1>
 <br>
 <p align="center">
-  <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
+  <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank" style="text-decoration:none; color:#003366;">
     🖱️👆 <strong>Clique para usar:</strong>
   </a>
 </p>
