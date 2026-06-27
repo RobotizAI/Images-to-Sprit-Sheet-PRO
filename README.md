@@ -1,4 +1,4 @@
-# 🧩 Images to Sprit Sheet PRO - RobotizAI
+# 🧩 Images to Sprit Sheet PRO v72 - RobotizAI
 
 <p align="center">
   <strong>Transforme várias imagens em uma única spritesheet, direto no navegador.</strong>
