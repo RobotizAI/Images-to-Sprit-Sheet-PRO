@@ -3,8 +3,8 @@
 </h1>
 <br>
 <p align="center">
-  <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank" style="text-decoration:none; color:#003366;">
-    🖱️👆 <strong>Clique para usar:</strong>
+  <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
+    <img src="https://img.shields.io/badge/🖱️👆_Clique_para_usar-003366?style=for-the-badge&labelColor=001F3F&color=1c1b2b" alt="Clique para usar">
   </a>
 </p>
 
