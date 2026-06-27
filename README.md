@@ -213,9 +213,9 @@ sem autorização expressa por escrito da **RobotizAI**.
 ---
 
 <p align="center">
-  Desenvolvido por <strong>RobotizAI</strong> 🤖✨
+  Orgulhosamente Desenvolvido por <strong>Carlos Stringuetti - RobotizAI</strong> 🤖✨
 </p>
 
 <p align="center">
-  🧩 Images to Sprit Sheet PRO
+  🧩 <strong>Images to Sprit Sheet PRO</strong>
 </p>
