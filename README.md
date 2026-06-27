@@ -1,7 +1,7 @@
 # 🧩 Images to Sprit Sheet PRO v72 - RobotizAI
 
 **🖱️👆 Clique aqui para usar:**
-[![Screenshot Images to Sprit Sheet PRO v72 - RobotizAI](Images%20to%20Sprit%20Sheet%20PRO%20v72%20-%20RobotizAI.jpeg)](https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/)
+[![Screenshot Images to Sprit Sheet PRO v72 - RobotizAI](Images%20to%20Sprit%20Sheet%20PRO%20v72%20-%20RobotizAI.png)](https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/)
 
 <p align="center">
   <a href="https://robotizai.github.io/Images-to-Sprit-Sheet-PRO/" target="_blank">
