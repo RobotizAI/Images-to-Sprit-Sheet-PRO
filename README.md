@@ -194,21 +194,8 @@ README.md    → apresentação, instruções e documentação
 
 ## 🔐 Direitos autorais
 
-Copyright © 2026 **RobotizAI**.
+Copyright © perpetuo **RobotizAI**.
 Todos os direitos reservados.
-
-Este projeto é disponibilizado apenas para **visualização e demonstração**.
-
-Não é permitido:
-
-* ❌ copiar;
-* ❌ modificar;
-* ❌ redistribuir;
-* ❌ vender;
-* ❌ republicar;
-* ❌ criar obras derivadas;
-
-sem autorização expressa por escrito da **RobotizAI**.
 
 ---
 
